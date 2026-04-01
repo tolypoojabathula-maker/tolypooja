@@ -1,4 +1,4 @@
 # pooja
 This is my first repository
-[BR]
+<BR>
 im pooja
